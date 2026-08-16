@@ -1,4 +1,4 @@
-DevOps Application v1
+DevOps Application v2
 
 Status: Development
 
