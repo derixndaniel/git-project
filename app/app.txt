@@ -1,0 +1,5 @@
+DevOps Application v1
+
+Status: Development
+
+This is a placeholder application used for practicing Git workflows, CI/CD pipelines, Docker, and Kubernetes deployments.
